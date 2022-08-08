@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+title: rock54.net
+description: まんが家フカホリユウキのWebサイト
+
+show_downloads: false
+site.google_analytics:
+
+site.lang: "ja-JP"
