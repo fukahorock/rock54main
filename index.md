@@ -16,16 +16,15 @@
 - [欲しい物リスト](https://www.amazon.jp/hz/wishlist/ls/2BK8YXD9QA6TH) 誕生日とかお祝いの時に。
 
 - - -
-[![【ターゲットに訴求する広告漫画なら】広告漫画家フカホリユウキの広告マンガ制作案内](https://rock54website.s3.ap-northeast-1.amazonaws.com/admanga_banner.jpg)](https://admanga.rock54.net/) 
-広告まんがはこちらから。
-
+[広告まんがはこちらから。](https://admanga.rock54.net/) 
 
 ## 最近の活動（商業まんが）
 カットなども描いてます。ここではまんが作品のみ掲載。
 
-### 「ハッキング!! #HACK_KING」掲載されます。
-2021年8月30日発売 別冊コロコロコミックSpecial 10月号（ミラコロコミック号）  
-[![ハッキング!! #HACK_KING](https://rock54website.s3.ap-northeast-1.amazonaws.com/news/202108_miracoro_king.jpg "ハッキング!! #HACK_KING")](https://amzn.to/3DiYK2O)
+
+### 「ゴーストスナイパー」掲載されます。
+2022年8月30日発売 別冊コロコロコミックSpecial 10月号（ミラコロコミック号）  
+[![ゴーストスナイパー](https://rock54website.s3.ap-northeast-1.amazonaws.com/news/202208_miracoro_sniper.jpg "ゴーストスナイパー")](https://amzn.to/3vVJ7Mz)
 
 
 - - -
@@ -38,6 +37,7 @@
 - 2020年 ミラコロコミックVer.2「スマホ探偵 トラベルくん（読み切り）」
 - 2020年 別冊コロコロコミックSpecial 2月号「ハッカー刑事 ハックくん」（読み切り）
 - 2021年 別冊コロコロコミックSpecial 10月号（ミラコロコミック号）「ハッキング!! #HACK_KING」（読み切り）
+- 2022年 別冊コロコロコミックSpecial 10月号（ミラコロコミック号）「ゴーストスナイパー」（読み切り）
 
 - - -
 
