@@ -1,6 +1,6 @@
 ---
 title: お問い合わせ・関連リンク
-permalink: /contacts/
+permalink: /contacts.html
 ---
 お仕事のお問い合わせはこちらから。
 [fukahorock@gmail.com](mailto:fukahorock@gmail.com)
