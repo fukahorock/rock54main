@@ -1,5 +1,6 @@
 ---
 title: プロフィール
+permalink: /profile/
 ---
 **フカホリユウキ**  
 ![フカホリユウキ](https://rock54website.s3.ap-northeast-1.amazonaws.com/profile.png "プロフィール")  
