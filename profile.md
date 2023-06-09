@@ -1,4 +1,6 @@
-# プロフィール
+---
+title: プロフィール
+---
 **フカホリユウキ**  
 ![フカホリユウキ](https://rock54website.s3.ap-northeast-1.amazonaws.com/profile.png "プロフィール")  
 まんが家、まんが原作者、広告まんが家。 5月21日生まれ。
