@@ -1,8 +1,6 @@
 ---
 title: "プロフィール"
-layout: post
 permalink: /profile
-date: 2023-06-30 13:07:17
 ---
 **フカホリユウキ**  
 ![フカホリユウキ](https://rock54website.s3.ap-northeast-1.amazonaws.com/profile.png "プロフィール")  
