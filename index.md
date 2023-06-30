@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
 ---
 
-# まんが家・フカホリユウキの公式サイト
 商業まんがのお知らせとかのサイトです。  
 [広告まんがはこちらから。](https://admanga.rock54.net/) 
 

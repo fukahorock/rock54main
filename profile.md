@@ -1,7 +1,7 @@
 ---
 title: "プロフィール"
 permalink: /profile
-type: base
+layout: page
 ---
 **フカホリユウキ**  
 ![フカホリユウキ](https://rock54website.s3.ap-northeast-1.amazonaws.com/profile.png "プロフィール")  
