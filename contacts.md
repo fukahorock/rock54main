@@ -1,6 +1,7 @@
 ---
 title: "お問い合わせ・関連リンク"
 permalink: /contacts
+type: base
 ---
 お仕事のお問い合わせはこちらから。
 [fukahorock@gmail.com](mailto:fukahorock@gmail.com)  
