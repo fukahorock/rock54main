@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 # まんが家・フカホリユウキの公式サイト
