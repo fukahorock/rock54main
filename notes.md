@@ -1,6 +1,6 @@
 ---
-title: 雑記
-permalink: /notes.html
+title: "雑記"
+permalink: /notes
 ---
 雑記など
 

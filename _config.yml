@@ -1,8 +1,4 @@
-theme: minimal
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
 
 title: rock54.net
 description: まんが家フカホリユウキのWebサイト
