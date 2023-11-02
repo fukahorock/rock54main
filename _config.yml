@@ -6,3 +6,21 @@ plugins:
   - jekyll-sitemap
 
 remote_theme: amitmerchant1990/reverie
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: fukahorock@gmail.com
+  facebook:
+  flickr:
+  github: 
+  instagram: fukahorock54
+  linkedin: 
+  pinterest:
+  rss: rss
+  twitter: fukahorock
+  stackoverflow: 
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  playconsole:
+  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
