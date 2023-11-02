@@ -4,7 +4,7 @@ permalink: /profile
 layout: page
 ---
 **フカホリユウキ**  
-![フカホリユウキ](https://rock54website.s3.ap-northeast-1.amazonaws.com/profile.png "プロフィール")  
+![フカホリユウキ](images/profile.png "プロフィール")  
 まんが家、まんが原作者、広告まんが家。 5月21日生まれ。  
 長崎県南部出身・東京都在住。新しいもの好きな 多趣味オタクです。
 
