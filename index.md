@@ -1,7 +1,8 @@
 ---
 layout: page
+callouts: home_callouts
+show_sidebar: true
 ---
-まんが家フカホリユウキのWebサイト  
 商業まんがのお知らせとかちょっとした日記をメインにしています。
 [広告まんがはこちらから。](https://admanga.rock54.net/) 
 
