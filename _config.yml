@@ -4,4 +4,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: amitmerchant1990/reverie
