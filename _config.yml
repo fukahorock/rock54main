@@ -1,10 +1,6 @@
 title: rock54.net
 description: まんが家フカホリユウキのWebサイト
-
-markdown: kramdown
-highlighter: rouge
-
 plugins:
   - jekyll-remote-theme
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: benbalter/retlab
