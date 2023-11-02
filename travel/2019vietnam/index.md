@@ -4,7 +4,6 @@ permalink: /notes/2019vietnam/
 layout: page
 ---
 
-## 【ベトナム】2019年1月 ベトナム縦断旅行記
 **北京首都国際空港**
 - [2019/01/02 サムになる](https://fukahorock.rock54.net/notes/2019vietnam/2019-01-02.md)
 
