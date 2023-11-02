@@ -1,7 +1,7 @@
 ---
 title: "雑記"
 permalink: /notes
-layout: home
+layout: blog
 ---
 雑記など。  
 旅行記やコラム？など、特定のカテゴリのコンテンツはピックアップしてまとめます。
