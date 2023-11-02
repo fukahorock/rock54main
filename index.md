@@ -1,7 +1,6 @@
 ---
-layout: page
-callouts: home_callouts
-show_sidebar: true
+layout: default
+
 ---
 商業まんがのお知らせとかちょっとした日記をメインにしています。
 [広告まんがはこちらから。](https://admanga.rock54.net/) 
