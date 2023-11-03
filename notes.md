@@ -32,6 +32,5 @@ layout: page
           <li><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> ({% if post.date and post.date != "" %}{{ post.date | date: "%Y/%m/%d" }}{%endif%})</li>
           {% endfor %}
       </ul>
-    <h3>古い投稿を見る</h3>
   </section>
 </div>
