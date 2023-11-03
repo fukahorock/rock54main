@@ -4,7 +4,7 @@ permalink: /notes/2019vietnam/
 layout: page
 ---
 
-## 北京首都国際空港*
+## 北京首都国際空港
 - [2019/01/02 サムになる](https://fukahorock.rock54.net/notes/2019vietnam/2019-01-02.html)
 
 ## ハノイ
