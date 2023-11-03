@@ -29,7 +29,7 @@ layout: page
       <ul class="past">
           {% endif %}
           {% endunless %}
-          <li><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> ({% if post.date and post.date != "" %}{{ post.date | date: "%Y/%m/%d" }}{%endif%})</li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a> ({% if post.date and post.date != "" %}{{ post.date | date: "%Y/%m/%d" }}{%endif%})</li>
           {% endfor %}
       </ul>
   </section>
