@@ -5,7 +5,7 @@ layout: page
 ---
 
 **北京首都国際空港**
-- [2019/01/02 サムになる](https://fukahorock.rock54.net/notes/2019vietnam/2019-01-02.md)
+- [2019/01/02 サムになる](https://fukahorock.rock54.net/notes/2019vietnam/2019-01-02.html)
 
 **ハノイ**
 - [2019/01/03 ホットシャワーが出ない](https://fukahorock.rock54.net/notes/2019vietnam/2019-01-03.html)

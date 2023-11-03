@@ -215,12 +215,12 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 900px;
 }
 
 p > img {
   display: block;
-  margin: 0 auto;
+  margin: 10px 0;
 }
 
 // Fixes images in popup boxes from Google Translate
