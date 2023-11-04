@@ -45,7 +45,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
   display: block;
-  width: 75%;
 
   @include mobile {
     line-height: 1.4;
@@ -216,6 +215,7 @@ strong, b {
 
 img {
   max-width: 900px;
+  width: 100%;
 }
 
 p > img {
