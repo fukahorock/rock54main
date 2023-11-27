@@ -11,7 +11,7 @@ layout: page
 
 ---
 
-[年賀状企画に参加する]([index.html](https://forms.gle/g8SD9cSVUg2A5pHu7)){.button}
+[年賀状企画に参加する](https://forms.gle/g8SD9cSVUg2A5pHu7){.button}
 
 
 ## よくある質問
