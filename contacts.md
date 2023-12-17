@@ -13,8 +13,9 @@ layout: page
 
 ## SNSなど
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
-- [Instagram](https://www.instagram.com/fukahorock/) ほぼ宣伝。お出かけした時にストーリーとか。
-- [Misskey](https://misskey.io/@fukahorock) たまにつぶやきます。現状運動の記録。
+- [Instagram](https://www.instagram.com/fukahorock/) ほぼ宣伝。お出かけした時にストーリーとか飯の画像など。
+- [Bluesky](https://bsky.app/profile/fukahorock54.bsky.social) 現状招待制SNS。難しい話はこっちでやります。
+- [Misskey](https://misskey.io/@fukahorock) たまにつぶやきます。運動報告をしています。
 - [Mastodon](https://mstdn.jp/@fffkhr/) たまにつぶやきます。まじでたまにしかつぶやきません。
 
 ## ギャラリー系
