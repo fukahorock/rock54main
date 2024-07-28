@@ -10,6 +10,7 @@ layout: page
 一部のものはPIXIV FANBOXから移設（予定）
 
 - [【ベトナム】2019年1月 ベトナム縦断旅行記](https://fukahorock.rock54.net/notes/2019vietnam/)
+- [【韓国】2024年6月〜7 韓国から長崎に帰省する旅](https://fukahorock.rock54.net/notes/2024/korea/)
 
 ## 雑記
 
