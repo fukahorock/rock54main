@@ -4,6 +4,7 @@ description: まんが家フカホリユウキのWebサイト
 site.lang: ja
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: amitmerchant1990/reverie
 timezone: Asia/Tokyo
