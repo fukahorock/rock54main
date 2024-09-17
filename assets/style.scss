@@ -90,8 +90,6 @@ p {
 
 .support {
   margin-top: 2em 1em;
-  padding: 1em;
-  border: solid 3px #c0d3da;
   text-align: center;
 }
 .support ul {
@@ -105,8 +103,9 @@ p {
 
 .support li {
   background-color: #fff;  /* ボタンの背景色 */
-  color: white;  /* テキストの色 */
+  color: #404040;  /* テキストの色 */
   padding: 10px 20px;  /* ボタン内の余白 */
+  border-color: #404040;
   border-radius: 25px;  /* 角丸の指定 */
   text-align: center;
   display: inline-block;  /* インラインブロック表示 */
@@ -115,16 +114,17 @@ p {
 
 .support li:hover {
   background-color: #4183C4;  /* ホバー時の背景色変化 */
+  color: white;
 }
 
 .support li a {
-  color: white;  /* リンクテキストの色 */
+  color: #404040;  /* リンクテキストの色 */
   text-decoration: none;  /* アンダーラインを消す */
 }
 
 .support li a:hover {
-  text-decoration: underline;  /* リンクにホバーした際にアンダーラインを表示 */
-  
+  text-decoration: none;  /* リンクにホバーした際にアンダーラインを表示 */
+
 }
 table {
 	padding: 0;
