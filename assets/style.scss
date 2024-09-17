@@ -109,7 +109,6 @@ p {
   border-radius: 25px;  /* 角丸の指定 */
   text-align: center;
   display: inline-block;  /* インラインブロック表示 */
-  transition: background-color 0.3s ease;  /* ホバー時のアニメーション */
 }
 
 .support li:hover {
@@ -124,6 +123,7 @@ p {
 
 .support li a:hover {
   text-decoration: none;  /* リンクにホバーした際にアンダーラインを表示 */
+  background-color: #4183C4;
   color: white;
 
 }
